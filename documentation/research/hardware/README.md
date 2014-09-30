@@ -1,0 +1,1 @@
+Folder structures for Preliminary research for hardware components.
