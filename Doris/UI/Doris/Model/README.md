@@ -1,0 +1,5 @@
+LOCATION FOR OBJECT MODELS
+SUCH AS:
+	Drink
+	Shot
+	
