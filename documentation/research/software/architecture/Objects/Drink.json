@@ -1,0 +1,16 @@
+{
+    'DrinkName' : 'Whiskey Sour',
+    'Ingredients' : [
+                        {
+                            'IngredientName' : 'Whiskey',
+                            'IngredientType' : 'Alcohol',
+                            'IngredientOunces' : 1
+                        },
+                        {
+                            'IngredientName' : 'SourMix',
+                            'IngredientType' : 'Mixer',
+                            'IngredientOunces' : 10
+                        }
+                    ],
+    'MadeCount' : 0
+}
