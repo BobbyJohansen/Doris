@@ -1,3 +1,26 @@
 Mongo will be the database of choice using JSON collections to build a DB of drink recipes. See Objects folder for object structures.
 
+Structure:
+			--MongoDB Service:
+					--DataBases:
+							--DB:
+								--Collections:
+									--Collection
+										--Documents
+
+
+Structure:
+			--MongoDB Service:
+					--DataBases:
+							--DORISDB:
+								--Collections:
+									--DRINKS
+										--See Objects/Drinks
+									--DRINKSMADE
+										--See Objects/DrinksMade
+									--INGREDIANTS
+										--See Objects/Ingrediants
+										
+
+
                                                         
